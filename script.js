@@ -1,5 +1,4 @@
 const button = document.querySelector(".ripple-btn");
-
 button.addEventListener("click", drawRipple);
 
 function drawRipple(event) {
